@@ -1,0 +1,13 @@
+{
+  "name": "spoons",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node ./src/main.js"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "pug": "^2.0.3",
+    "sequelize": "^4.42.0",
+    "sqlite3": "^4.0.6"
+  }
+}
